@@ -1,8 +1,8 @@
-<font size="54">**Senior Project**<font>
- <font size="5"> This is my text number 5</font> 
+<font size="10">**Senior Project**<font>
+
+
  
- <font size="6"> This is my text number 6</font>
-**Vision**
+ **Vision**
   
   Classically-trained song editors have produced many songs, including hymns, which generate guitar chords 
 that guitarists don’t want to play. This is because there is a strong disconnect between how these classical composers 
