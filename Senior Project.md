@@ -17,3 +17,7 @@ different situations.
 determined by a chord by chord comparison.I used a machine learning system to implement this solution. The software 
 that we will be using is Music21 for reading, processing and writing MusicXML files and Neural Machine Translation(NMT) 
 for the machine learning.
+
+ **About** 
+ 
+ Michelle Ferdinands is a Senior Computer Science student(BCS) with a double major in Mathematics.
