@@ -1,4 +1,4 @@
-**Senior Project**
+<font size="6">**Senior Project**</font size>
 
 **Vision**
   
