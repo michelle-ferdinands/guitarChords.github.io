@@ -1,6 +1,7 @@
 **Senior Project**
 
 **Vision**
+  
   Classically-trained song editors have produced many songs, including hymns, which generate guitar chords 
 that guitarists don’t want to play. This is because there is a strong disconnect between how these classical composers 
 view music and the way that modern guitarists view music. The guitar chords used for a song often sound bad played 
