@@ -25,10 +25,10 @@ for the machine learning.
  [Code](https://github.com/hplantin/guitar_chords/)
  
  
- [Report] (https://docs.google.com/document/d/1LFIFcN4nwyGr-g48CTDPQHCTlWSqaIavUwb5NiWviwQ/edit)
+ [Report](https://docs.google.com/document/d/1LFIFcN4nwyGr-g48CTDPQHCTlWSqaIavUwb5NiWviwQ/edit)
  
  
- [Presentation] (https://docs.google.com/presentation/d/1z3kbiFpjB709BOqNzh3NurjnqQSbewaM/edit#slide=id.p1)
+ [Presentation](https://docs.google.com/presentation/d/1z3kbiFpjB709BOqNzh3NurjnqQSbewaM/edit#slide=id.p1)
  
  
- [Department Website] (https://computing.calvin.edu/)
+ [Calvin CS website](https://computing.calvin.edu/)
