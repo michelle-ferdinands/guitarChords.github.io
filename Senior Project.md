@@ -14,10 +14,15 @@ is important to have suitable guitar chords available. Our goal is to automatica
 different situations.
 
   The solution I have provided generates guitar chords with a given score with about 75% accuracy. Accuracy was 
-determined by a chord by chord comparison.I used a machine learning system to implement this solution. The software 
-that we will be using is Music21 for reading, processing and writing MusicXML files and Neural Machine Translation(NMT) 
+determined by a chord by chord comparison. I used a machine learning system to implement this solution. The softwares
+used were Music21 for reading, processing and writing MusicXML files and Neural Machine Translation(NMT) 
 for the machine learning.
 
  **About** 
  
  Michelle Ferdinands is a Senior Computer Science student(BCS) with a double major in Mathematics.
+
+ [Code](https://github.com/hplantin/guitar_chords/)
+ [Report] (https://docs.google.com/document/d/1LFIFcN4nwyGr-g48CTDPQHCTlWSqaIavUwb5NiWviwQ/edit)
+ [Presentation] (https://docs.google.com/presentation/d/1z3kbiFpjB709BOqNzh3NurjnqQSbewaM/edit#slide=id.p1)
+ [Department Website] (https://computing.calvin.edu/)
