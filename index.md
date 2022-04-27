@@ -16,7 +16,7 @@ different situations.
 
   The solution I have provided generates guitar chords with a given score with about 75% accuracy. Accuracy was 
 determined by a chord by chord comparison. I used a machine learning system to implement this solution. The softwares
-used were Music21 for reading, processing and writing MusicXML files and Neural Machine Translation(NMT) 
+used were Music21 for data manipulation, MusicXML files for reading musical scores and Neural Machine Translation(NMT) 
 for the machine learning.
 
 
