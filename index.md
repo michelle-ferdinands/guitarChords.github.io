@@ -27,8 +27,6 @@ Michelle Ferdinands is a Senior Computer Science student(BCS) with a double majo
 - [Code](hhttps://github.com/hplantin/guitar_chords/)
 - [Report](https://docs.google.com/document/d/1LFIFcN4nwyGr-g48CTDPQHCTlWSqaIavUwb5NiWviwQ/edit)
 - [Status Report Presentation](https://docs.google.com/presentation/d/1z3kbiFpjB709BOqNzh3NurjnqQSbewaM/edit#slide=id.p1)
-
-
 - [Calvin Computer Science Department](https://computing.calvin.edu/)
 
 
