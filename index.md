@@ -24,8 +24,8 @@ for the machine learning.
 
 Michelle Ferdinands is a Senior Computer Science student(BCS) with a double major in Mathematics.
 
-- [Code](hhttps://github.com/hplantin/guitar_chords/)
-- [Report](https://docs.google.com/document/d/1LFIFcN4nwyGr-g48CTDPQHCTlWSqaIavUwb5NiWviwQ/edit)
+- [Code](https://github.com/hplantin/guitar_chords/)
+- [Report](https://docs.google.com/document/d/1qNNnLn1cSP5r-iDRHDZpElJvvTAwiN_TPqrGuTKB3gE/edit#)
 - [Presentation](https://docs.google.com/presentation/d/1z3kbiFpjB709BOqNzh3NurjnqQSbewaM/edit#slide=id.p1)
 - [Calvin Computer Science Department](https://computing.calvin.edu/)
 
